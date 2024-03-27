@@ -6,4 +6,4 @@ from wikimedia's commons.
 It could have just as easily been a simple static site.
 
 It is currently deployed at [Python Anywhere](https://www.pythonanywhere.com/),
-accesible through [here](https://vere-app.pythonanywhere.com/).
+accesible through [here](https://saywa.pythonanywhere.com/).
